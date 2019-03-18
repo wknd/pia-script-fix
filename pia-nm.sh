@@ -170,7 +170,7 @@ autoconnect=false
 [vpn]
 service-type=org.freedesktop.NetworkManager.openvpn
 username=$pia_username
-comp-lzo=no
+comp-lzo=yes
 remote=$host
 cipher=$pia_cipher
 auth=$pia_auth
